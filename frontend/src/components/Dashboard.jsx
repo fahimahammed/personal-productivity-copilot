@@ -2,10 +2,9 @@ import React, { useState, useEffect } from 'react';
 import TaskList from './TaskList';
 import Evaluation from './Evaluation';
 
-function Dashboard({ goal, onTaskComplete, onRefresh, apiUrl }) {
+function Dashboard({ goal, onTaskComplete, apiUrl }) {
   const [tasks, setTasks] = useState([]);
   const [showEvaluation, setShowEvaluation] = useState(false);
-  const [loading, setLoading] = useState(false);
 
   const API_URL = apiUrl || 'http://localhost:5000/api';
 

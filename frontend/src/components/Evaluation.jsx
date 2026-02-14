@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-function Evaluation({ goalId, goalTitle, completedTasks, totalTasks, apiUrl }) {
+function Evaluation({ goalId, apiUrl }) {
   const [evaluation, setEvaluation] = useState(null);
   const [loading, setLoading] = useState(false);
   const [reminder, setReminder] = useState(null);
