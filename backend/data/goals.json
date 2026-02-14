@@ -1,0 +1,103 @@
+[
+  {
+    "title": "Learn Python",
+    "durationDays": 3,
+    "plan": {
+      "milestones": [
+        "Understand Python syntax and basic programming concepts",
+        "Develop simple programs using Python and familiarize with libraries",
+        "Complete a small project that incorporates learned skills"
+      ],
+      "dailyTasks": [
+        {
+          "day": 1,
+          "title": "Introduction to Python",
+          "description": "Learn Python basics including variables, data types, and control structures (if statements, loops). Complete at least 5 exercises."
+        },
+        {
+          "day": 2,
+          "title": "Working with Data Structures",
+          "description": "Dive into lists, dictionaries, and functions. Practice by creating functions that manipulate these data structures. Complete at least 5 exercises."
+        },
+        {
+          "day": 3,
+          "title": "Develop a Small Project",
+          "description": "Choose a simple project (e.g., a calculator or a to-do list) and implement it using the concepts learned. Document your code and prepare for a presentation."
+        }
+      ],
+      "successMetrics": [
+        "Successfully complete at least 15 Python exercises across three days",
+        "Build and demonstrate a functional small project by the end of day 3"
+      ],
+      "challenges": [
+        "Absorbing a large amount of information in a short time",
+        "Maintaining motivation during the learning process"
+      ],
+      "motivationalApproach": "Set small achievable goals for each task and reward yourself with breaks or small treats after completing each day's tasks. Remind yourself of the benefits of learning Python and visualize how you will use it in future projects."
+    },
+    "status": "active",
+    "id": "1771052562669",
+    "createdAt": "2026-02-14T07:02:42.669Z"
+  },
+  {
+    "title": "JS",
+    "durationDays": 7,
+    "plan": {
+      "milestones": [
+        "Understand JavaScript fundamentals and syntax",
+        "Complete basic exercises and projects",
+        "Learn about DOM manipulation and events",
+        "Build a small interactive web application"
+      ],
+      "dailyTasks": [
+        {
+          "day": 1,
+          "title": "JavaScript Basics",
+          "description": "Learn about data types, variables, and operators in JavaScript."
+        },
+        {
+          "day": 2,
+          "title": "Control Structures",
+          "description": "Study conditionals (if, switch) and loops (for, while)."
+        },
+        {
+          "day": 3,
+          "title": "Functions and Scope",
+          "description": "Understand how to declare functions, scope, and closures."
+        },
+        {
+          "day": 4,
+          "title": "Objects and Arrays",
+          "description": "Learn about objects, arrays, and methods to manipulate them."
+        },
+        {
+          "day": 5,
+          "title": "DOM Manipulation",
+          "description": "Explore how to access and modify HTML elements with JavaScript."
+        },
+        {
+          "day": 6,
+          "title": "Events and Listeners",
+          "description": "Learn about handling user events like clicks and form submissions."
+        },
+        {
+          "day": 7,
+          "title": "Build a Simple App",
+          "description": "Create a small interactive web application using the skills learned."
+        }
+      ],
+      "successMetrics": [
+        "Complete all daily tasks on time",
+        "Build a functional interactive web application"
+      ],
+      "challenges": [
+        "Time management - keeping up with daily tasks",
+        "Understanding complex concepts like closures and asynchronous JS"
+      ],
+      "motivationalApproach": "Set daily rewards for completing tasks, such as taking breaks or enjoying a treat. Keep a progress journal to track learning and celebrate small wins."
+    },
+    "status": "active",
+    "id": "1771052676085",
+    "createdAt": "2026-02-14T07:04:36.085Z"
+  }
+]

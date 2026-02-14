@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1771052562669-0-1771052562670",
+    "goalId": "1771052562669",
+    "day": 1,
+    "title": "Introduction to Python",
+    "description": "Learn Python basics including variables, data types, and control structures (if statements, loops). Complete at least 5 exercises.",
+    "completed": true,
+    "createdAt": "2026-02-14T07:02:42.670Z",
+    "updatedAt": "2026-02-14T07:04:15.228Z"
+  },
+  {
+    "id": "1771052562669-1-1771052562670",
+    "goalId": "1771052562669",
+    "day": 2,
+    "title": "Working with Data Structures",
+    "description": "Dive into lists, dictionaries, and functions. Practice by creating functions that manipulate these data structures. Complete at least 5 exercises.",
+    "completed": true,
+    "createdAt": "2026-02-14T07:02:42.670Z",
+    "updatedAt": "2026-02-14T07:06:16.252Z"
+  },
+  {
+    "id": "1771052562669-2-1771052562670",
+    "goalId": "1771052562669",
+    "day": 3,
+    "title": "Develop a Small Project",
+    "description": "Choose a simple project (e.g., a calculator or a to-do list) and implement it using the concepts learned. Document your code and prepare for a presentation.",
+    "completed": true,
+    "createdAt": "2026-02-14T07:02:42.670Z",
+    "updatedAt": "2026-02-14T07:06:26.079Z"
+  },
+  {
+    "id": "1771052676085-0-1771052676086",
+    "goalId": "1771052676085",
+    "day": 1,
+    "title": "JavaScript Basics",
+    "description": "Learn about data types, variables, and operators in JavaScript.",
+    "completed": true,
+    "createdAt": "2026-02-14T07:04:36.086Z",
+    "updatedAt": "2026-02-14T07:06:46.064Z"
+  },
+  {
+    "id": "1771052676085-1-1771052676086",
+    "goalId": "1771052676085",
+    "day": 2,
+    "title": "Control Structures",
+    "description": "Study conditionals (if, switch) and loops (for, while).",
+    "completed": true,
+    "createdAt": "2026-02-14T07:04:36.086Z",
+    "updatedAt": "2026-02-14T07:06:52.666Z"
+  },
+  {
+    "id": "1771052676085-2-1771052676086",
+    "goalId": "1771052676085",
+    "day": 3,
+    "title": "Functions and Scope",
+    "description": "Understand how to declare functions, scope, and closures.",
+    "completed": true,
+    "createdAt": "2026-02-14T07:04:36.086Z",
+    "updatedAt": "2026-02-14T07:06:53.897Z"
+  },
+  {
+    "id": "1771052676085-3-1771052676086",
+    "goalId": "1771052676085",
+    "day": 4,
+    "title": "Objects and Arrays",
+    "description": "Learn about objects, arrays, and methods to manipulate them.",
+    "completed": false,
+    "createdAt": "2026-02-14T07:04:36.086Z"
+  },
+  {
+    "id": "1771052676085-4-1771052676086",
+    "goalId": "1771052676085",
+    "day": 5,
+    "title": "DOM Manipulation",
+    "description": "Explore how to access and modify HTML elements with JavaScript.",
+    "completed": true,
+    "createdAt": "2026-02-14T07:04:36.086Z",
+    "updatedAt": "2026-02-14T07:06:56.123Z"
+  },
+  {
+    "id": "1771052676085-5-1771052676086",
+    "goalId": "1771052676085",
+    "day": 6,
+    "title": "Events and Listeners",
+    "description": "Learn about handling user events like clicks and form submissions.",
+    "completed": true,
+    "createdAt": "2026-02-14T07:04:36.086Z",
+    "updatedAt": "2026-02-14T07:06:54.942Z"
+  },
+  {
+    "id": "1771052676085-6-1771052676086",
+    "goalId": "1771052676085",
+    "day": 7,
+    "title": "Build a Simple App",
+    "description": "Create a small interactive web application using the skills learned.",
+    "completed": true,
+    "createdAt": "2026-02-14T07:04:36.086Z",
+    "updatedAt": "2026-02-14T07:06:59.073Z"
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "name": "ai-task-execution-agent",
+  "version": "1.0.0",
+  "description": "AI Task Execution Agent - Personal Productivity Copilot",
+  "private": true,
+  "scripts": {
+    "install-all": "pnpm install && cd frontend && pnpm install && cd ../backend && pnpm install && cd ..",
+    "dev": "npm run dev:all",
+    "dev:all": "concurrently \"cd backend && pnpm run dev\" \"cd frontend && pnpm run dev\"",
+    "start": "concurrently \"cd backend && pnpm start\" \"cd frontend && pnpm run dev\"",
+    "start:backend": "cd backend && pnpm start",
+    "start:frontend": "cd frontend && pnpm run dev",
+    "build": "cd frontend && pnpm run build",
+    "build:frontend": "cd frontend && pnpm run build",
+    "lint": "cd frontend && pnpm run lint",
+    "preview": "cd frontend && pnpm run preview"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "keywords": [
+    "ai",
+    "productivity",
+    "task-management",
+    "learning",
+    "agent",
+    "openai",
+    "react",
+    "express"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/ai-task-execution-agent"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  }
+}

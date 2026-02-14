@@ -1,0 +1,144 @@
+[
+  {
+    "goalId": "1771052562669",
+    "completedTasks": 0,
+    "totalTasks": 3,
+    "progressPercentage": 0,
+    "id": "1771052562669-1771052562671",
+    "timestamp": "2026-02-14T07:02:42.671Z"
+  },
+  {
+    "goalId": "1771052562669",
+    "completedTasks": 1,
+    "totalTasks": 3,
+    "progressPercentage": 33,
+    "updatedAt": "2026-02-14T07:03:09.277Z",
+    "id": "1771052562669-1771052589277",
+    "timestamp": "2026-02-14T07:03:09.277Z"
+  },
+  {
+    "goalId": "1771052562669",
+    "completedTasks": 1,
+    "totalTasks": 3,
+    "progressPercentage": 33,
+    "updatedAt": "2026-02-14T07:03:12.670Z",
+    "id": "1771052562669-1771052592670",
+    "timestamp": "2026-02-14T07:03:12.670Z"
+  },
+  {
+    "goalId": "1771052562669",
+    "completedTasks": 1,
+    "totalTasks": 3,
+    "progressPercentage": 33,
+    "updatedAt": "2026-02-14T07:03:17.908Z",
+    "id": "1771052562669-1771052597908",
+    "timestamp": "2026-02-14T07:03:17.908Z"
+  },
+  {
+    "goalId": "1771052562669",
+    "completedTasks": 1,
+    "totalTasks": 3,
+    "progressPercentage": 33,
+    "updatedAt": "2026-02-14T07:03:19.024Z",
+    "id": "1771052562669-1771052599024",
+    "timestamp": "2026-02-14T07:03:19.024Z"
+  },
+  {
+    "goalId": "1771052562669",
+    "completedTasks": 1,
+    "totalTasks": 3,
+    "progressPercentage": 33,
+    "updatedAt": "2026-02-14T07:04:10.005Z",
+    "id": "1771052562669-1771052650005",
+    "timestamp": "2026-02-14T07:04:10.005Z"
+  },
+  {
+    "goalId": "1771052562669",
+    "completedTasks": 1,
+    "totalTasks": 3,
+    "progressPercentage": 33,
+    "updatedAt": "2026-02-14T07:04:15.228Z",
+    "id": "1771052562669-1771052655228",
+    "timestamp": "2026-02-14T07:04:15.228Z"
+  },
+  {
+    "goalId": "1771052676085",
+    "completedTasks": 0,
+    "totalTasks": 7,
+    "progressPercentage": 0,
+    "id": "1771052676085-1771052676087",
+    "timestamp": "2026-02-14T07:04:36.087Z"
+  },
+  {
+    "goalId": "1771052562669",
+    "completedTasks": 2,
+    "totalTasks": 3,
+    "progressPercentage": 67,
+    "updatedAt": "2026-02-14T07:06:16.252Z",
+    "id": "1771052562669-1771052776252",
+    "timestamp": "2026-02-14T07:06:16.252Z"
+  },
+  {
+    "goalId": "1771052562669",
+    "completedTasks": 3,
+    "totalTasks": 3,
+    "progressPercentage": 100,
+    "updatedAt": "2026-02-14T07:06:26.080Z",
+    "id": "1771052562669-1771052786080",
+    "timestamp": "2026-02-14T07:06:26.080Z"
+  },
+  {
+    "goalId": "1771052676085",
+    "completedTasks": 1,
+    "totalTasks": 7,
+    "progressPercentage": 14,
+    "updatedAt": "2026-02-14T07:06:46.064Z",
+    "id": "1771052676085-1771052806065",
+    "timestamp": "2026-02-14T07:06:46.065Z"
+  },
+  {
+    "goalId": "1771052676085",
+    "completedTasks": 2,
+    "totalTasks": 7,
+    "progressPercentage": 29,
+    "updatedAt": "2026-02-14T07:06:52.667Z",
+    "id": "1771052676085-1771052812668",
+    "timestamp": "2026-02-14T07:06:52.668Z"
+  },
+  {
+    "goalId": "1771052676085",
+    "completedTasks": 3,
+    "totalTasks": 7,
+    "progressPercentage": 43,
+    "updatedAt": "2026-02-14T07:06:53.897Z",
+    "id": "1771052676085-1771052813897",
+    "timestamp": "2026-02-14T07:06:53.897Z"
+  },
+  {
+    "goalId": "1771052676085",
+    "completedTasks": 4,
+    "totalTasks": 7,
+    "progressPercentage": 57,
+    "updatedAt": "2026-02-14T07:06:54.943Z",
+    "id": "1771052676085-1771052814943",
+    "timestamp": "2026-02-14T07:06:54.943Z"
+  },
+  {
+    "goalId": "1771052676085",
+    "completedTasks": 5,
+    "totalTasks": 7,
+    "progressPercentage": 71,
+    "updatedAt": "2026-02-14T07:06:56.124Z",
+    "id": "1771052676085-1771052816124",
+    "timestamp": "2026-02-14T07:06:56.124Z"
+  },
+  {
+    "goalId": "1771052676085",
+    "completedTasks": 6,
+    "totalTasks": 7,
+    "progressPercentage": 86,
+    "updatedAt": "2026-02-14T07:06:59.074Z",
+    "id": "1771052676085-1771052819074",
+    "timestamp": "2026-02-14T07:06:59.074Z"
+  }
+]
