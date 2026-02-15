@@ -37,7 +37,7 @@
     "description": "Learn about data types, variables, and operators in JavaScript.",
     "completed": true,
     "createdAt": "2026-02-14T07:04:36.086Z",
-    "updatedAt": "2026-02-14T07:06:46.064Z"
+    "updatedAt": "2026-02-15T15:57:08.301Z"
   },
   {
     "id": "1771052676085-1-1771052676086",
@@ -47,7 +47,7 @@
     "description": "Study conditionals (if, switch) and loops (for, while).",
     "completed": true,
     "createdAt": "2026-02-14T07:04:36.086Z",
-    "updatedAt": "2026-02-14T07:06:52.666Z"
+    "updatedAt": "2026-02-15T15:57:17.409Z"
   },
   {
     "id": "1771052676085-2-1771052676086",
@@ -55,9 +55,9 @@
     "day": 3,
     "title": "Functions and Scope",
     "description": "Understand how to declare functions, scope, and closures.",
-    "completed": true,
+    "completed": false,
     "createdAt": "2026-02-14T07:04:36.086Z",
-    "updatedAt": "2026-02-14T07:06:53.897Z"
+    "updatedAt": "2026-02-15T15:56:55.185Z"
   },
   {
     "id": "1771052676085-3-1771052676086",
@@ -66,7 +66,8 @@
     "title": "Objects and Arrays",
     "description": "Learn about objects, arrays, and methods to manipulate them.",
     "completed": false,
-    "createdAt": "2026-02-14T07:04:36.086Z"
+    "createdAt": "2026-02-14T07:04:36.086Z",
+    "updatedAt": "2026-02-15T15:56:59.146Z"
   },
   {
     "id": "1771052676085-4-1771052676086",
@@ -74,9 +75,9 @@
     "day": 5,
     "title": "DOM Manipulation",
     "description": "Explore how to access and modify HTML elements with JavaScript.",
-    "completed": true,
+    "completed": false,
     "createdAt": "2026-02-14T07:04:36.086Z",
-    "updatedAt": "2026-02-14T07:06:56.123Z"
+    "updatedAt": "2026-02-15T15:56:58.232Z"
   },
   {
     "id": "1771052676085-5-1771052676086",
@@ -84,9 +85,9 @@
     "day": 6,
     "title": "Events and Listeners",
     "description": "Learn about handling user events like clicks and form submissions.",
-    "completed": true,
+    "completed": false,
     "createdAt": "2026-02-14T07:04:36.086Z",
-    "updatedAt": "2026-02-14T07:06:54.942Z"
+    "updatedAt": "2026-02-15T15:56:56.768Z"
   },
   {
     "id": "1771052676085-6-1771052676086",
@@ -94,8 +95,8 @@
     "day": 7,
     "title": "Build a Simple App",
     "description": "Create a small interactive web application using the skills learned.",
-    "completed": true,
+    "completed": false,
     "createdAt": "2026-02-14T07:04:36.086Z",
-    "updatedAt": "2026-02-14T07:06:59.073Z"
+    "updatedAt": "2026-02-15T15:57:00.611Z"
   }
 ]

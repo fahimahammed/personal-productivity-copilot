@@ -35,6 +35,20 @@ function Dashboard({ goal, onTaskComplete, apiUrl }) {
     return tasks.filter(t => t.day === daysPassed + 1 || t.day === daysPassed);
   };
 
+  const handleTaskComplete = async (taskId, completed) => {
+    // Optimistic update - update UI immediately
+    setTasks(prevTasks =>
+      prevTasks.map(task =>
+        task.id === taskId ? { ...task, completed } : task
+      )
+    );
+
+    // Call parent handler for API update
+    if (onTaskComplete) {
+      await onTaskComplete(taskId, completed);
+    }
+  };
+
   const todayTasks = getTodayTasks();
 
   return (
@@ -93,7 +107,7 @@ function Dashboard({ goal, onTaskComplete, apiUrl }) {
           <h3>Today's Tasks</h3>
           <TaskList
             tasks={todayTasks}
-            onTaskComplete={onTaskComplete}
+            onTaskComplete={handleTaskComplete}
           />
         </div>
       )}
@@ -116,7 +130,7 @@ function Dashboard({ goal, onTaskComplete, apiUrl }) {
                 <input
                   type="checkbox"
                   checked={task.completed || false}
-                  onChange={(e) => onTaskComplete(task.id, e.target.checked)}
+                  onChange={(e) => handleTaskComplete(task.id, e.target.checked)}
                 />
                 <span>{task.completed ? '✓ Done' : 'Mark Done'}</span>
               </label>
